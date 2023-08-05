@@ -20,8 +20,9 @@
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="GNU Bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/512px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" width="40" height="40"/>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuzaimanawab&show_icons=true&locale=en&layout=compact" alt="khuzaimanawab" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khuzaimanawab&show_icons=true&locale=en" alt="khuzaimanawab" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuzaimanawab&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="khuzaimanawab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khuzaimanawab&show_icons=true&locale=en&bg_color=000000" alt="khuzaimanawab" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
